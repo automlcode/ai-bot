@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <Greet name="Vitesse Tauri" />
+    <Greet name="Tauri" />
   </div>
 </template>
 
